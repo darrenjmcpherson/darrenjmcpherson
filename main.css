@@ -4,8 +4,7 @@
 
 body {
   -web-kit-smoothing:antialiased;
-  letter-spacing:0.1rem;
-  font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: Georgia, Cambria, "Times New Roman", Times, serif;
   font-weight:100;
   font-style:normal;
   font-size:20px;
