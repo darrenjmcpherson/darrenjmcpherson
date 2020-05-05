@@ -1,5 +1,5 @@
 .container {
-  border-bottom:1px solid #ccc
+  border-bottom:1px solid #091833
 }
 
 html {
@@ -14,8 +14,8 @@ body {
   font-style:normal;
   font-size:20px;
   line-height:0.75;
-  color:#00;
-  background-color:#F9F8FD
+  color:#ea00d9;
+  background-color:#091833
 }
 
 a {
