@@ -18,6 +18,10 @@ body {
   background-color:#091833
 }
 
+.text-shadow {
+     text-shadow: 1px 4px 6px #091833;
+}
+
 a {
   color:#7cc6bf;
   text-decoration:none
