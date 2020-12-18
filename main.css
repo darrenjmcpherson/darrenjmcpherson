@@ -9,41 +9,29 @@ html {
 
 body {
   -web-kit-smoothing:antialiased;
-  font-family: Georgia, Cambria, "Times New Roman", Times, serif;
-  font-weight:100;
-  font-style:normal;
+  font-family: 'Titillium Web', sans-serif;
   font-size:20px;
   line-height:0.75;
   color:#000;
   background-color:#fff;
 }
 
-.text-shadow {
-     text-shadow: 1px 4px 6px #091833;
-}
-
 a {
   color:#7cc6bf;
-  text-decoration:none
+  text-decoration:none;
 }
 
 a:hover {
-  text-decoration:underline
-}
-
-.h1,.h2,.h3,.h4,.h5,.h6 {
-  color:#00;
-  font-weight:100; 
-  font-family: Georgia, Cambria, "Times New Roman", Times, serif;
+  text-decoration:underline;
 }
 
 .h1 {
-  font-size:36px
+  font-size:36px;
 }
 
 @media only screen and (min-width: 480px){
   .container{
     max-width:700px;
-    margin:200px auto
+    margin:200px auto;
   }
 }
