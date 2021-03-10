@@ -1,9 +1,8 @@
 .container {
-  border-bottom:1px solid #091833
+  /*border-bottom:1px solid #F3364A*/
 }
 
 html {
-  border-left: 12px solid #555;
   height: 100%;
 }
 
@@ -12,8 +11,11 @@ body {
   font-family: 'Titillium Web', sans-serif;
   font-size:20px;
   line-height:0.75;
-  color:#000;
-  background-color:#fff;
+  color: #F3364A;
+  color: #fff;
+  /*color:#000;
+  background-color:#fff;*/
+  background:#C70025;
 }
 
 a {
@@ -27,11 +29,13 @@ a:hover {
 
 .h1 {
   font-size:36px;
+  
 }
 
 @media only screen and (min-width: 480px){
   .container{
-    max-width:700px;
-    margin:200px auto;
+    /*max-width:700px;
+    margin:200px auto;*/
+    padding: 50px 70px;
   }
 }
